@@ -1,22 +1,4 @@
-# Pitch Deck — Startup Building for Developers
-
-Welcome to the official pitch deck repository for our software project. This README outlines the core 12-slide draft created as part of the Power Learn Project (PLP) framework.
-
----
-
-## 📋 Table of Contents
-1. [Slide 1: Title & Tagline](#slide-1-title--tagline)
-2. [Slide 2: The Problem](#slide-3-the-problem)
-3. [Slide 3: The Solution](#slide-3-the-solution)
-4. [Slide 4: Product / How It Works](#slide-4-product--how-it-works)
-5. [Slide 5: Market Opportunity](#slide-5-market-opportunity)
-6. [Slide 6: Business Model](#slide-6-business-model)
-7. [Slide 7: Go-To-Market Strategy](#slide-7-go-to-market-gtm-strategy)
-8. [Slide 8: Competitive Analysis](#slide-8-competitive-analysis)
-9. [Slide 9: Traction & Milestones](#slide-9-traction--milestones)
-10. [Slide 10: The Team](#slide-10-the-team)
-11. [Slide 11: Financial Projections & Support Request](#slide-11-financial-projections--support-request)
-12. [Slide 12: Vision & Contact](#slide-12-vision--contact)
+# Pitch Deck — Startup Building for Developer
 
 ---
 
